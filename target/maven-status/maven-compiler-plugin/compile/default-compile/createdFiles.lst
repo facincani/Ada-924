@@ -1,0 +1,3 @@
+br\com\ada\entidades\Aluno.class
+br\com\ada\PopulaBD.class
+br\com\ada\JDBCSelectExample.class
